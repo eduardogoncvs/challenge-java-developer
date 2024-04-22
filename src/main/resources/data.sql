@@ -1,0 +1,1 @@
+insert into client (name, age, income) values ('Bob', 40, 10000);
